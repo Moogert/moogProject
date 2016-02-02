@@ -9,7 +9,7 @@ make any other efforts pretty pointless.
 
 
 Apparently, the power supply (in this case, the Moog 909) sends out GND, +12V, and 
--6V out. 
+-6V out. +12 is on pin #1, GND on pin 2, -6V on pin 3. Some modules use -10V on pin 14. 
 
 ## The next step: 
 
@@ -18,3 +18,12 @@ into the synth. Hook everything up and see what needs to be done (if anything).
 
 * Talk to someone in engineering and figure out how to test a large power supply
 using portable gear.  
+
+* Test everything; met with Andrew Diao about this. Details to follow. 
+
+* Should the power supply end up bad, there are other options out there (the most 
+tantalizing of which being to scrap the Moog power supply and get a new one- Power-One 
+sells power supplies that are rated for professional use and are international). 
+They can be bought at http://www.mouser.com/new/bel-power/bel-power-pet-power-suppy/
+
+
