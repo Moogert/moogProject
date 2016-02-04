@@ -26,4 +26,8 @@ tantalizing of which being to scrap the Moog power supply and get a new one- Pow
 sells power supplies that are rated for professional use and are international). 
 They can be bought at http://www.mouser.com/new/bel-power/bel-power-pet-power-suppy/
 
+## Links related to Moog 904A Low-Pass Filter unit: 
+
+http://forum.moogmusic.com/viewtopic.php?f=1&t=21343
+
 
