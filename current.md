@@ -4,6 +4,11 @@ I am currently investigating the power source's reliability. My reasoning for th
 being, of course, that a synth can't work without good power, and bad power will 
 make any other efforts pretty pointless. 
 
+## PLAN OF ATTACK: 
+
+### move linearly through the synth. I plan to test the oscillators next (as controlled 
+from the keyboard).  
+
 ## Useful links: 
 * http://modularsynthesis.com/moog/pwr_bd-cables/moog_power.htm
 
@@ -19,7 +24,9 @@ into the synth. Hook everything up and see what needs to be done (if anything).
 * Talk to someone in engineering and figure out how to test a large power supply
 using portable gear.  
 
-* Test everything; met with Andrew Diao about this. Details to follow. 
+* Test everything; met with Andrew Diao about this. Details to follow.  
+UPDATE: I have a multimeter. I should be able to test the power supply soon. (I doubt I'll 
+find anything awry, but it won't hurt to check.) 
 
 * Should the power supply end up bad, there are other options out there (the most 
 tantalizing of which being to scrap the Moog power supply and get a new one- Power-One 
