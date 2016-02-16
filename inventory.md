@@ -18,5 +18,6 @@ What we currently have in the Moog's setup:
 * One (1) homebrew module apparently designed for a custom setup (no documentation) involving audio out 
 * One (1) homebrew module evidently designed as a patch bay (?) 
 * Two (2) Moog-designed mixers (no model number issued) 
-* One (1) Moog-designed mixer/CV patch bay (no model # on front panel) 
+* One (1) 992 voltage router 
+* One (1) 993  voltage router 
 
