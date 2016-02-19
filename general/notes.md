@@ -8,3 +8,4 @@ of synthesis.
 
 Given this, the accessories I'm going to propose will seek to 
 expand the unit's functionality with regards to sonic expression. 
+
