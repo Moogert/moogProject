@@ -2,7 +2,7 @@
 
 What we currently have in the Moog's setup:
 
-* One (1) 911A keyboard controller
+* One (1) 950 keyboard controller
 * One (1) 901-A oscillator controller 
 * One (2) 901-B oscillators 
 * One (1) 903 white noise source 

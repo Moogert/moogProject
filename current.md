@@ -2,7 +2,8 @@
 
 I am currently investigating the power source's reliability. My reasoning for this
 being, of course, that a synth can't work without good power, and bad power will 
-make any other efforts pretty pointless. 
+make any other efforts pretty pointless. As of right now, the power source is shot. (Or, pretty close to it.) 
+Investigating other options for powering the synth for the time being. ("...for a few dollars more...")
 
 ## PLAN OF ATTACK: 
 
@@ -18,20 +19,10 @@ Apparently, the power supply (in this case, the Moog 909) sends out GND, +12V, a
 
 ## The next step: 
 
-* Figure out how to get the power source out of the synth or get a testing device 
-into the synth. Hook everything up and see what needs to be done (if anything). 
-
-* Talk to someone in engineering and figure out how to test a large power supply
-using portable gear.  
-
-* Test everything; met with Andrew Diao about this. Details to follow.  
-UPDATE: I have a multimeter. I should be able to test the power supply soon. (I doubt I'll 
-find anything awry, but it won't hurt to check.) 
-
-* Should the power supply end up bad, there are other options out there (the most 
-tantalizing of which being to scrap the Moog power supply and get a new one- Power-One 
-sells power supplies that are rated for professional use and are international). 
-They can be bought at http://www.mouser.com/new/bel-power/bel-power-pet-power-suppy/
+* get capacitors for the power supply. (Or, I could just get a Bel-power unit and 
+be done with the power supply forever...) The Bel-power power supplies are highly 
+regarded in the modular community; they can be bought at: 
+http://www.mouser.com/new/bel-power/bel-power-pet-power-suppy/
 
 ## Links related to Moog 904A Low-Pass Filter unit: 
 
