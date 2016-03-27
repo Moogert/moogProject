@@ -57,11 +57,15 @@ NOTE: -10V is missing here (Thanks to RobotMakers on Muffwiggler for pointing th
 
 ## Capacitors to replace
 
-80mF, 25V (4x) 
-[can't seem to find it on digikey which is weird]
+80uF, 25V (4x) [getting aluminum, 565-3349-3-ND]] 
 
-100uF, 250V max (2x)
+100uF, 250V max (2x) [getting aluminum, UCS2E101MHD]
 
+0.1 uF (ECE lab has this) 
 
-3000mF, 35V (1x) 
+0.0022 ceramic capacitor [digikey part # K222K10X7RF5UH5]
+
+3000uF, 35V (1x) [getting aluminum, digikey part # EGPD350ELL302ML25H]
+
+(...yeah, so microfarads and millifarads are different things...)
 
