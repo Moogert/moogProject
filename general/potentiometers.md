@@ -35,4 +35,32 @@ http://www.michaelshell.org/gadgetsandfixes/fixingscratchypots.html
 
 https://www.soundonsound.com/sos/jul08/articles/qa0708_2.html
 
- 
+## potentiometers that should maybe replaced instead of cleaned: 
+
+### 904-A
+
+5K ("Control Voltage"), 50K ("Regeneration")  ("AB Mod Pot") --> (...as are most of these...) 
+
+### 901-B (x2)
+
+10K with a second deck (not sure of the technical term for this) ("Frequency Vernier")
+
+### 902 (x2) 
+
+5K
+
+ ### 901 
+
+5K (no label), 25K ("Width of pulse")
+
+### 901-A 
+
+5K (no label), 2.5K ("width of pulse")
+
+### 911 (x2) 
+
+3x 1 meg ohm pot (T1,T2,T3), 25K (Esus)
+
+### NOT CLEANED: 
+
+901-A, mixer/attenuators 

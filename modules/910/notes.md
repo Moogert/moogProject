@@ -6,12 +6,16 @@ yes
 
 ## CONDITION: 
 
-BUSTED 
+BUSTED (parts have arrived, not yet soldered in) 
 
 ## STATUS: 
 
 Broken. Probably bad capacitors (which is what you'd expect from equipment from 1968). 
 Am looking into installing a Bel-Power unit (or two) to make the synth operational. 
+
+Bel-power units: 
+HB5-3/OVP-AG
+HBB15-1.5-AG
 
 Proceeding with bench power supply to test synth until this is resolved. 
 
