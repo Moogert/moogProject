@@ -7,6 +7,9 @@ Sourcing parts, planning on making a final order today or tomorrow. Filing for a
 trying to get enough sleep/finish all the other school stuff that needs to be done. Talking with recording
 studio to try and set up logistics; realizing I've never heard Misty (as it's been dubbed) on nice speakers. 
 
+UPDATE: I ordered $100 or trigger cables/converters, bought the Bel-power units (at last) for some nice, 
+clean power. Will work on potentiometer stuff tomorrow morning, I think. 
+
 ...and that's about it. More later. 
 
 ~Jeffrey
