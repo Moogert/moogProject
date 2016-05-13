@@ -10,8 +10,14 @@ DOCUMENTATION: yes
 
 A copy of the sales brochure is in the folder under this one. 
 
-STATUS: unknown
+## STATUS: 
 
-PLANS: 
+don't talk to me about this thing
 
-Hook up a power supply and measure the response of the keys.
+...This is, quite possibly, the most irksome aspect of this entire project
+so far. The keyboard controls everything else, and the fact that I can't
+rely on it to effectively troubleshoot other systems is a bother. 
+
+I (usually) get a trigger out of it, which is good. However, notes 
+are not reliable, and even trigger gives some trouble at times. If there's 
+one part of this system I would rather ditch, it's this. 
